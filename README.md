@@ -10,12 +10,7 @@ IEEE - https://ieeexplore.ieee.org/document/9489204
 
 SERSC - https://sersc.org/journals/index.php/IJGDC/article/view/37077
 
----
-**NOTE**
-
-If possible, use my paper in your research and give citation.
-
----
+**NOTE** - If possible, use my paper in your research and give citation. Thank You.
 
 ## Datasets 
 
