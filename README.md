@@ -1,14 +1,16 @@
-# Design and Analysis of Emotion Classification using Deep Learning (LSTM, RNN)
+# M Tech Research Project
 
-M Tech Research Project
+## Design and Analysis of Emotion Classification using Deep Learning (LSTM, RNN)
 
 Youtube Link - 
 
-Research Articles - 
+## Research Articles 
 
 IEEE - https://ieeexplore.ieee.org/document/9489204
 
 SERSC - https://sersc.org/journals/index.php/IJGDC/article/view/37077
+
+## Datasets 
 
 Dataset 1 - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp?select=train.txt
 
