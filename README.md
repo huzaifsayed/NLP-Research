@@ -18,6 +18,15 @@ Dataset 2 - https://raw.githubusercontent.com/rajeevratan84/datascienceforbusine
 
 Dataset 3 - https://www.unige.ch/cisa/research/materials-and-online-research/research-material/
 
+## Setup
+
+```
+virtualenv env
+. ./env/bin/activate
+pip install -r requirements.txt
+jupyter notebook
+```
+
 
 
 
