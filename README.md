@@ -10,6 +10,13 @@ IEEE - https://ieeexplore.ieee.org/document/9489204
 
 SERSC - https://sersc.org/journals/index.php/IJGDC/article/view/37077
 
+---
+**NOTE**
+
+If possible, use my paper in your research and give citation.
+
+---
+
 ## Datasets 
 
 Dataset 1 - https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp?select=train.txt
