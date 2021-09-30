@@ -2,7 +2,7 @@
 
 ## Design and Analysis of Emotion Classification using Deep Learning (LSTM, RNN)
 
-Youtube Link - 
+Youtube Link - https://youtu.be/Ni7yHXLI3Fo
 
 ## Research Articles 
 
